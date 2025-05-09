@@ -142,4 +142,4 @@ npm run dev
 
 **Mohammed Hamdan**  
 📧 hamdanaveed07@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-hamdan-9b6893221/)
